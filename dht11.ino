@@ -5,9 +5,9 @@
 #include <ESP8266WiFi.h> // file untuk model wifi
 #include <BlynkSimpleEsp8266.h> // file untuk blynk
 
-char auth[] =  "BBFF-JJm98gGJwaUGrdLkxjZ6npNrTXicfs";
-char ssid[] = "TytydMeongs";
-char pass[] = "siniguabisikin";
+char auth[] =  "YourAuthToken";
+char ssid[] = "SuperZ";
+char pass[] = "SupermachineRS";
 
 #define DHTPIN 14
 #define DHTTYPE DHT11
